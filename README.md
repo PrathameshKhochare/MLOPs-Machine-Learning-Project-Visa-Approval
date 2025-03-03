@@ -5,3 +5,11 @@ End to End ML Project on Visa Approval.
 2. MLOPs Tool: https://www.evidentlyai.com/
 3. MongoDB: https://account.mongodb.com/account/login
 4. Data link: https://www.kaggle.com/datasets/moro23/easyvisa-datase
+
+
+#### Git Commands
+git add .
+
+git commit -m "Updated"
+
+git push origin main
